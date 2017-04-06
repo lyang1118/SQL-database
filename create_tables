@@ -1,1 +1,0 @@
-create table customer (id int IDENTIFY(1,1), cnane varchar(30), cphone(10), createdate datetime);
